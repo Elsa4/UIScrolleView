@@ -15,6 +15,10 @@
 		F1F922E61CBF6418004A47A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1F922E41CBF6418004A47A1 /* LaunchScreen.storyboard */; };
 		F1F922F11CBF6418004A47A1 /* UIScrollerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F922F01CBF6418004A47A1 /* UIScrollerTests.m */; };
 		F1F922FC1CBF6418004A47A1 /* UIScrollerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F1F922FB1CBF6418004A47A1 /* UIScrollerUITests.m */; };
+		F1F9230A1CBF65C0004A47A1 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F923091CBF65C0004A47A1 /* 1.png */; };
+		F1F9230C1CBF65EA004A47A1 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F9230B1CBF65EA004A47A1 /* 2.png */; };
+		F1F9230E1CBF65FE004A47A1 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F9230D1CBF65FE004A47A1 /* 3.png */; };
+		F1F923101CBF6616004A47A1 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = F1F9230F1CBF6616004A47A1 /* 4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +55,10 @@
 		F1F922F71CBF6418004A47A1 /* UIScrollerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIScrollerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1F922FB1CBF6418004A47A1 /* UIScrollerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIScrollerUITests.m; sourceTree = "<group>"; };
 		F1F922FD1CBF6418004A47A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1F923091CBF65C0004A47A1 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		F1F9230B1CBF65EA004A47A1 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		F1F9230D1CBF65FE004A47A1 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		F1F9230F1CBF6616004A47A1 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +109,10 @@
 		F1F922D51CBF6418004A47A1 /* UIScroller */ = {
 			isa = PBXGroup;
 			children = (
+				F1F9230B1CBF65EA004A47A1 /* 2.png */,
+				F1F923091CBF65C0004A47A1 /* 1.png */,
+				F1F9230D1CBF65FE004A47A1 /* 3.png */,
+				F1F9230F1CBF6616004A47A1 /* 4.png */,
 				F1F922D91CBF6418004A47A1 /* AppDelegate.h */,
 				F1F922DA1CBF6418004A47A1 /* AppDelegate.m */,
 				F1F922DC1CBF6418004A47A1 /* ViewController.h */,
@@ -244,6 +256,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1F922E61CBF6418004A47A1 /* LaunchScreen.storyboard in Resources */,
+				F1F923101CBF6616004A47A1 /* 4.png in Resources */,
+				F1F9230A1CBF65C0004A47A1 /* 1.png in Resources */,
+				F1F9230C1CBF65EA004A47A1 /* 2.png in Resources */,
+				F1F9230E1CBF65FE004A47A1 /* 3.png in Resources */,
 				F1F922E31CBF6418004A47A1 /* Assets.xcassets in Resources */,
 				F1F922E11CBF6418004A47A1 /* Main.storyboard in Resources */,
 			);
